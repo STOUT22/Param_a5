@@ -4,3 +4,4 @@
  TO move you use the 'A' and 'D' Keys to move left and right respectively.
  Use 'Spacebar' to perform jump action 
  Beware of red platforms as they may send you back to bottom
+Also u have to move your character to stay on the moving platforms
